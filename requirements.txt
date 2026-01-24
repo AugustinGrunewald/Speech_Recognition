@@ -1,0 +1,20 @@
+# --- Core Deep Learning & Audio ---
+torch==2.5.1
+torchaudio==2.5.1
+torcheval
+soundfile
+
+# --- Data Manipulation ---
+numpy
+pandas
+
+# --- Visualization ---
+matplotlib
+
+# --- Development & Notebooks ---
+jupyter
+ipykernel
+tqdm
+
+# --- Evaluation (ASR Metrics) ---
+jiwer

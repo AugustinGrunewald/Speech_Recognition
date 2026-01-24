@@ -1,2 +1,4 @@
-# Don't upload the papers folder
+# Don't upload these folders
 papers/
+data/
+model/
