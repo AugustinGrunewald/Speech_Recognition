@@ -18,3 +18,7 @@ tqdm
 
 # --- Evaluation (ASR Metrics) ---
 jiwer
+
+# --- Pipeline ---
+sounddevice 
+soundfile
