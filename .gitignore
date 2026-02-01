@@ -1,4 +1,4 @@
 # Don't upload these folders
 papers/
 data/
-model/
+model/**/checkpoint*
