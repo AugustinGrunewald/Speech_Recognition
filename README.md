@@ -5,7 +5,7 @@ A deep learning project to explore the topic of speech recognition
 This project explores **RNN Acoustic Models**, based on the paper **"Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition"** by Hasim Sak et al. (Google).
 
 ### Resources
-* **Video Presentation:** [LINK_TO_VIDEO]
+* **Video Presentation:** [LINK_TO_VIDEO](https://youtu.be/PZ6Q0SpPeuE)
 * **Original Paper:** [Link to PDF](https://arxiv.org/pdf/1507.06947)
 
 ### Quick Start
